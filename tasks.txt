@@ -1,0 +1,4 @@
+Study Python
+Learning AI
+API
+OpenAI
